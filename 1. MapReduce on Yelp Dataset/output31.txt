@@ -1,0 +1,1205 @@
+city,stars
+AVON,5.0
+Ahwahtukee,5.0
+Ahwatukee Foothills Village,5.0
+Alburg,5.0
+Auburn,5.0
+Austin,5.0
+Barberton,5.0
+Beltline,5.0
+Belœil,5.0
+Bentleyville,5.0
+Black Rock City,5.0
+Broadlands,5.0
+Bury,5.0
+CALGARY,5.0
+CARSON,5.0
+CAVE CREEK,5.0
+Cave Creek Road,5.0
+Cave creek,5.0
+Chandler-Gilbert,5.0
+Chateau,5.0
+Chattanooga,5.0
+Closter,5.0
+Cranberry Township,5.0
+Crouse,5.0
+East Mesa,5.0
+Edgemont,5.0
+Fitchburgh,5.0
+Garrettsville,5.0
+Godmanchester,5.0
+Greenway,5.0
+Henderson Nevada,5.0
+Huntington Beach,5.0
+Las Vegas Valley,5.0
+Las Vegas,,5.0
+Las Vergas,5.0
+Laval, Ste Dorothee,5.0
+Leaside,5.0
+Les Coteaux,5.0
+Litchfield park,5.0
+Mesa Arizona,5.0
+Montville,5.0
+Nationwide,5.0
+Nevada,5.0
+New River,5.0
+North Carolina,5.0
+North Olmsted,,5.0
+North Phoenix,5.0
+Northeast Calgary,5.0
+O'hara Township,5.0
+Oakwood village,5.0
+Old Brooklyn,5.0
+Parma mid birth,5.0
+Pasadena,5.0
+Phoenix Metro Area,5.0
+Phoenx,5.0
+Point-Claire,5.0
+QUEEN CREEK,5.0
+Rainbow Valley,5.0
+Rougemont,5.0
+SUN PRAIRIE,5.0
+Sainte-Marthe,5.0
+Scotsdale,5.0
+Scottadale,5.0
+Scottsale,5.0
+Seattle,5.0
+Shady Side,5.0
+South Russell,5.0
+St. Joseph,5.0
+Sun CIty,5.0
+Suncity,5.0
+TOLLESON,5.0
+Tempe ,5.0
+Twinsburgh,5.0
+Valencia,5.0
+Vieux-Montréal,5.0
+las Vegas,5.0
+south Euclid,5.0
+Clinton,4.9
+Côte-Saint-Luc,4.9
+Mooers,4.9
+Painesville Township,4.9
+Saintt-Bruno-de-Montarville,4.9
+Temecula,4.9
+Union,4.9
+Valleywide,4.9
+110 Las Vegas,4.8
+Allegheny,4.8
+Arizona,4.8
+Cuyahoga Heights,4.8
+GIlbert,4.8
+Grand Canyon,4.8
+L'ile-Bizard,4.8
+Lakewood, Oh,4.8
+Mississauaga,4.8
+Mt. Horeb,4.8
+Nottingham Township,4.8
+Noyan,4.8
+Rural Ridge,4.8
+Saint-Pierre-de-Véronne-à-Pike-River,4.8
+Sainte-Marguerite-du-lac-Masson,4.8
+Scotesdale,4.8
+Scottsdale, AZ,4.8
+South Charlotte,4.8
+Sunnyslope,4.8
+Val-Morin,4.8
+henderson,4.8
+Boston,4.7
+Brownsburg-Chatham,4.7
+CAREFREE,4.7
+City Center,4.7
+Deux-Montagnes Regional County Municipality,4.7
+Farnham,4.7
+Grove City,4.7
+Hamilton,4.7
+Hendserson,4.7
+Henryville,4.7
+INDIAN LAND,4.7
+Ivesdale,4.7
+LAVEEN,4.7
+Las Vegas Nv,4.7
+Le Sud-Ouest,4.7
+Les Cèdres,4.7
+Lynhurst,4.7
+Mansfield,4.7
+Marvin,4.7
+Port Vue,4.7
+Red Rock,4.7
+Rillton,4.7
+Southside Flats,4.7
+St-Lazare,4.7
+Sutersville,4.7
+Toronto-West,4.7
+Urbana, Illinois,4.7
+surprise,4.7
+Brooklyn Hts.,4.6
+Columbus,4.6
+Estrella Village,4.6
+Homer,4.6
+Lawrence,4.6
+Mayfield Heights (Cleveland),4.6
+Montréal (Québec),4.6
+NORTH LAS VEGAS,4.6
+North Scottsdale,4.6
+Ormstown,4.6
+Pahrump,4.6
+Richmonhill,4.6
+River Drive Park,4.6
+SCOTTSDALE,4.6
+San Tan Valley,4.6
+Wellington,4.6
+West Montréal,4.6
+Whitney,4.6
+glendale,4.6
+las vegas,4.6
+springdale,4.6
+Arnold,4.5
+Beeton,4.5
+Chatauguay,4.5
+Fithian,4.5
+HENDERSON,4.5
+Huntingdon,4.5
+Iberville,4.5
+Indianola,4.5
+Leeds,4.5
+Leslieville,4.5
+Los Angeles,4.5
+MACEDONIA,4.5
+Mount Albert,4.5
+Newburgh Heights,4.5
+Old Town Scottsdale,4.5
+PARMA HEIGHTS,4.5
+Pennsylvania,4.5
+Quartier des Spectacles,4.5
+Saint - Hyacinthe,4.5
+St Joseph,4.5
+St-Laurent,4.5
+West Elizabeth,4.5
+charlotte,4.5
+solon,4.5
+​Chandler,4.5
+Ansnorveldt,4.4
+Bedford Hts,4.4
+Ben Avon,4.4
+Cecil,4.4
+Concord Twp,4.4
+Côte Saint-Luc,4.4
+Dane,4.4
+Elrama,4.4
+FORT MILL,4.4
+L'assomption,4.4
+MESA,4.4
+Mercier,4.4
+Otterburn Park,4.4
+Peninsul,4.4
+Phx,4.4
+Regional Municipality of York,4.4
+Robinson Twp.,4.4
+Rostraver,4.4
+Russellton,4.4
+SCARBOROUGH,4.4
+Sainte-Thérèse-de-Blainville,4.4
+Sidney,4.4
+Tucson,4.4
+University Ht,4.4
+Whtiby,4.4
+phoenix,4.4
+toronto,4.4
+Auburn Township,4.3
+Banksville,4.3
+Berry,4.3
+Boston Heights,4.3
+CHARLOTTE,4.3
+Cramerton,4.3
+Deux-Montagnes,4.3
+Dormont,4.3
+Fountain Hls,4.3
+GILBERT,4.3
+Harwick,4.3
+Herminie,4.3
+LAS VEGAS,4.3
+La Prairie,4.3
+Lacolle,4.3
+Lancaster,4.3
+Las  Vegas,4.3
+Las Vegas East,4.3
+Las Vegas NV,4.3
+Las Vegas, NV,4.3
+Las vegas,4.3
+London,4.3
+Maple Grove,4.3
+Marshall,4.3
+Mayfield Hts,4.3
+McMurry,4.3
+Midland,4.3
+Millvale,4.3
+Mississaugua,4.3
+Montréal-Est,4.3
+Moon Twp,4.3
+New Glarus,4.3
+Novelty,4.3
+Ranlo,4.3
+Richmond Hts,4.3
+Saint-Marc-sur-Richelieu,4.3
+Saint-Roch-de-l'Achigan,4.3
+Sainte-Thérèse,4.3
+Springdale,4.3
+Ste-Rose,4.3
+Tuscola,4.3
+Vaudreuil,4.3
+Vaughn,4.3
+Villa Grove,4.3
+Westview,4.3
+lyndhurst,4.3
+Ambridge,4.2
+Blainville,4.2
+Braddock,4.2
+Bratenahl,4.2
+CLEVELAND,4.2
+Chander,4.2
+Communauté-Urbaine-de-Montréal,4.2
+Emsworth,4.2
+Fabreville,4.2
+Fort mill,4.2
+Fox Chapel,4.2
+Geauga,4.2
+Goodwood,4.2
+Heidelberg,4.2
+Huntsburg,4.2
+Kirtland,4.2
+Mcdonald,4.2
+Mckees Rocks,4.2
+Middleburg Hts,4.2
+Mississauge,4.2
+Morgan,4.2
+Mt Lebanon,4.2
+New York,4.2
+Northfield Center,4.2
+Notre-Dame-de-l'Ile-Perrot,4.2
+Palgrave,4.2
+Presto,4.2
+Reminderville,4.2
+Ross,4.2
+Saint-Eustache,4.2
+Scarobrough,4.2
+South Amherst,4.2
+Spring Valley,4.2
+St-Benoît de Mirabel,4.2
+St. Jean Sur Richelieu,4.2
+Strip District,4.2
+TEMPE,4.2
+Ville Mont-Royal,4.2
+boulder city,4.2
+Ashburn,4.1
+Ballantyne,4.1
+Black Earth,4.1
+Bloomfield,4.1
+Boulder City,4.1
+Brooklyn Heights,4.1
+Dallas,4.1
+Fisher,4.1
+GLENDALE,4.1
+Green Valley,4.1
+Henderson and Las vegas,4.1
+Ingomar,4.1
+Ingram,4.1
+L'Île-Bizard,4.1
+Lower burrell,4.1
+Mentor-on-the-Lake,4.1
+Montreal-Nord,4.1
+Montrose,4.1
+Morgan Hill,4.1
+Moseley,4.1
+Munroe Falls,4.1
+N. Olmsted,4.1
+NELLIS AFB,4.1
+Paoli,4.1
+Perry,4.1
+Port Credit,4.1
+Ravenna,4.1
+Saint-Jean-sur-Richelieu,4.1
+Salaberry-de-Valleyfield,4.1
+Scottdale,4.1
+Shaler Township,4.1
+Sharpsburg,4.1
+St-Bruno-de-Montarville,4.1
+West View,4.1
+Westport,4.1
+Bay Village,4.0
+Bellvue,4.0
+Brunswick Hills,4.0
+Centre Island,4.0
+Char,4.0
+Cuyohoga Falls,4.0
+Delson,4.0
+Desert Ridge,4.0
+Dollard-des Ormeaux,4.0
+Don Mills,4.0
+East Hawkesbury,4.0
+Edgewood,4.0
+Export,4.0
+Finleyville,4.0
+Glassport,4.0
+Glbert,4.0
+Glen Williams,4.0
+Greensboro,4.0
+Harmar Township,4.0
+Hiram,4.0
+Imperial,4.0
+Joliette,4.0
+Kahnawake,4.0
+L'Île-Perrot,4.0
+La Salle,4.0
+Lachute,4.0
+Lake Mead,4.0
+McFarland,4.0
+Mccandless Township,4.0
+Mentor On The Lake,4.0
+Metro Phoenix,4.0
+Mississuaga,4.0
+Mont St-hilaire,4.0
+Montreal-Est,4.0
+Mt. Washington,4.0
+N E Las Vegas,4.0
+North  Ridgeville,4.0
+Norton,4.0
+Oka,4.0
+Oldham,4.0
+Orange Village,4.0
+Paradise Valley,4.0
+Phoenix,,4.0
+Saint-Hippolyte,4.0
+Saint-Hubert,4.0
+Saint-Lambert,4.0
+Saint-Pie,4.0
+Saint-laurent,4.0
+Sainte-Adele,4.0
+Sainte-Adèle,4.0
+Sainte-Madeleine,4.0
+Sainte-thérèse,4.0
+Salaberry-De-Valleyfield,4.0
+Sauk City,4.0
+Sharon,4.0
+Somerton,4.0
+South Hills,4.0
+Spring Hill City View,4.0
+St-Jean-sur-Richelieu,4.0
+Stallings,4.0
+Ste-Therese-de-Blainville,4.0
+Terrebonne,4.0
+Thornhil,4.0
+Toronto Scarborough,4.0
+Tottenham,4.0
+Township of Concord,4.0
+Tremont,4.0
+Venetia,4.0
+calgary,4.0
+charlottte,4.0
+Ahwatukee,3.9
+Avalon,3.9
+Bainbridge,3.9
+Bath,3.9
+Beachwood ,3.9
+Beaconsfield,3.9
+Blakeney,3.9
+Blue Diamond,3.9
+Bradford West Gwillimbury,3.9
+Bradfordwoods,3.9
+Burton,3.9
+Chagrin Falls,3.9
+Chambly,3.9
+Clark,3.9
+Davidson,3.9
+East Mc Keesport,3.9
+GASTONIA,3.9
+Gates Mills,3.9
+Grafton,3.9
+Guadalupe,3.9
+Harrison City,3.9
+Hemmingford,3.9
+Kennedy Township,3.9
+Kleinburg,3.9
+Lagrange,3.9
+Lakewood,3.9
+Litchfield,3.9
+Lowell,3.9
+MADISON,3.9
+Mantua,3.9
+McCandless,3.9
+McKees Rocks,3.9
+McKeesRocks,3.9
+Montréal,3.9
+Moon,3.9
+Moreland Hills,3.9
+Mount Washington,3.9
+Oakmont,3.9
+Outremont,3.9
+Peninsula,3.9
+Pepper Pike,3.9
+Rawdon,3.9
+Repentigny,3.9
+Saint-Bruno,3.9
+Saint-Constant,3.9
+Saint-Hyacinthe,3.9
+Saint-Jean-Sur-Richelieu,3.9
+Saint-Jérôme,3.9
+Saint-Lazare,3.9
+Saint-Philippe,3.9
+Sainte-Genevieve,3.9
+Scottsdale,3.9
+Seven Hills,3.9
+Shadyside,3.9
+Sheffield,3.9
+Stoughton,3.9
+Sturgeon,3.9
+The Promenade,3.9
+Trafford,3.9
+Upper St. Clair,3.9
+Valley City,3.9
+Valley View,3.9
+Verona,3.9
+Windsor,3.9
+Woodbridge (Vaughan),3.9
+Youngtown,3.9
+cave creek,3.9
+verdun,3.9
+Allentown,3.8
+Anthem,3.8
+Bakerstown,3.8
+Bellevue,3.8
+Belmont,3.8
+Berea,3.8
+Blawnox,3.8
+Brooklin,3.8
+CONCORD,3.8
+Carefree,3.8
+Carnegie,3.8
+Castle Shannon,3.8
+Cave Creek,3.8
+Chertsey,3.8
+Chesterland,3.8
+Cleveland,3.8
+Cleveland Heights,3.8
+Cornelius,3.8
+DeForest,3.8
+Deerfield,3.8
+Dollard-Des Ormeaux,3.8
+East Pittsburgh,3.8
+Fairport Harbor,3.8
+Fairview Park,3.8
+Fort Mcdowell,3.8
+Fountain Hills,3.8
+Frazer,3.8
+Gilbert,3.8
+Green Tree,3.8
+Henderson,3.8
+Henderston,3.8
+Huntersville,3.8
+King City,3.8
+Lachenaie,3.8
+Las Vegas,3.8
+Laveen Village,3.8
+Mc Donald,3.8
+McDonald,3.8
+Mint  Hill,3.8
+Montgomery,3.8
+Montréal-Nord,3.8
+Moon TWP,3.8
+Mount Horeb,3.8
+Mount Lebanon,3.8
+Murrysville (Monroeville),3.8
+Napierville,3.8
+Nellis Air Force Base,3.8
+New Eagle,3.8
+North Huntingdon,3.8
+North Randall,3.8
+North of Brampton,3.8
+Northfield Center Township,3.8
+Oakdale,3.8
+Olmsted Falls,3.8
+PEORIA,3.8
+Phoenix,3.8
+Phoneix,3.8
+Phoniex,3.8
+Pitcairn,3.8
+Pittsburgh,3.8
+Plum,3.8
+Regent Square,3.8
+Richland Township,3.8
+SURPRISE,3.8
+Saint-Bruno-de-Montarville,3.8
+Saint-Jerome,3.8
+Sainte-Marguerite-du-Lac-Masson,3.8
+Silver Lake,3.8
+South Park Township,3.8
+Squirrel Hill,3.8
+Summerlin South,3.8
+Swissvale,3.8
+Tega Cay,3.8
+Verdun,3.8
+Waxhaw,3.8
+Weddington,3.8
+Wilkinsburg,3.8
+tempe,3.8
+Île des Soeurs,3.8
+AZ,3.7
+Akron,3.7
+Alburgh,3.7
+Aliquippa,3.7
+Allison Park,3.7
+Apache Trail,3.7
+Avon Lake,3.7
+Baie-d'Urfé,3.7
+Bedford Hts.,3.7
+Bois-des-Filion,3.7
+Buckeye,3.7
+Canonsburg,3.7
+Chandler,3.7
+Chargrin Falls,3.7
+Charlemagne,3.7
+Charlotte,3.7
+Cheswick,3.7
+Church Cove,3.7
+Clairton,3.7
+Cleveland Height,3.7
+Cote Saint Luc,3.7
+DENVER,3.7
+East Mississauga,3.7
+Eastlake,3.7
+Elizabeth,3.7
+Evergreen,3.7
+Franklin Park,3.7
+Gibsonia,3.7
+Glendale Az,3.7
+Glenshaw,3.7
+Harmarville,3.7
+Harrisburg,3.7
+Hinckley,3.7
+Hnederson,3.7
+Hudson,3.7
+Indian Land,,3.7
+Indian Trail,3.7
+Inglewood,3.7
+Lachine,3.7
+Lindale,3.7
+Litchfield Park,3.7
+Longueuil,3.7
+Lower Lawrenceville,3.7
+Lowesville,3.7
+Madison,3.7
+Mahomet,3.7
+Matthews,3.7
+McAdenville,3.7
+McMasterville,3.7
+Mcmurray,3.7
+Mentor On the,3.7
+Mesa,3.7
+Monreoville,3.7
+Mont-Saint-Grégoire,3.7
+Montréal-Ouest,3.7
+Mooresville,3.7
+Mount Holly,3.7
+Murrysville,3.7
+N Las Vegas,3.7
+New Kensington,3.7
+North Braddock,3.7
+North Ridgeville,3.7
+North Royalton,3.7
+NorthYork,3.7
+Oak Ridges,3.7
+Old Port of Montreal,3.7
+Parma,3.7
+Peters Township,3.7
+Phoenix AZ,3.7
+Pierrefonds,3.7
+Pointe-aux-Trembles,3.7
+Rexdale,3.7
+Rio Verde,3.7
+Rock Hill,3.7
+Rocky River,3.7
+Rouses Point,3.7
+Saint Joseph,3.7
+Saint-Léonard,3.7
+Saint-Sauveur,3.7
+Sainte-Anne-de-Bellevue,3.7
+Schomberg,3.7
+Sewickley,3.7
+Shaker Heights,3.7
+St Leonard,3.7
+Ste-Dorothée,3.7
+Sunrise Manor,3.7
+Tempe,3.7
+Thomasboro,3.7
+Turtle Creek,3.7
+Urbana,3.7
+Uxbridge,3.7
+Vegas,3.7
+Vimont,3.7
+Waddell,3.7
+Westmount,3.7
+Whitchurch-Stouffville,3.7
+Wickliffe,3.7
+Willoughby Hills,3.7
+Woodmere,3.7
+Yorkville,3.7
+kirtland,3.7
+peoria,3.7
+Amherst,3.6
+Aspinwall,3.6
+Avon,3.6
+Boucherville,3.6
+Brecksville,3.6
+Brentwood,3.6
+Broadview Heights,3.6
+Brook Park,3.6
+Caledon,3.6
+Caledon Village,3.6
+Calgary,3.6
+Champaign,3.6
+Chardon,3.6
+Châteauguay,3.6
+Coraopolis,3.6
+Coteau-du-Lac,3.6
+Cottage Grove,3.6
+Crescent,3.6
+Cuyahoga Falls,3.6
+Dollard-des-Ormeaux,3.6
+Downsview,3.6
+ETOBICOKE,3.6
+East Gwillimbury,3.6
+East York,3.6
+Eighty Four,3.6
+El Mirage,3.6
+Etobiicoke,3.6
+Fairlawn,3.6
+Fort Mill,3.6
+Georgetown,3.6
+Glendale,3.6
+Goodyear,3.6
+Gormley,3.6
+Harrisbug,3.6
+Hendersonville,3.6
+Irwin,3.6
+Kannapolis,3.6
+Kent,3.6
+L'ile-Perrot,3.6
+Laval,3.6
+Lawrenceville,3.6
+Mayfield Village,3.6
+Mc Kees Rocks,3.6
+McCandless Township,3.6
+McKeesport,3.6
+Mcknight,3.6
+Median,3.6
+Medina,3.6
+Middleton,3.6
+Mint Hill,3.6
+Monoroeville,3.6
+Mont-Saint-Hilaire,3.6
+Monticello,3.6
+Montral,3.6
+Montreal,3.6
+Montréal-West,3.6
+Moon Township,3.6
+Mt. Lebanon,3.6
+N. Randall,3.6
+Newmarket,3.6
+North Las Vegas,3.6
+North Las Vegas ,3.6
+Ogden,3.6
+Oregon,3.6
+Painesville,3.6
+Paradise,3.6
+Peoria,3.6
+Pheonix AZ,3.6
+Phoenix, AZ,3.6
+Pincourt,3.6
+Pineville,3.6
+Pointe-Claire,3.6
+Queen Creek,3.6
+Richfield,3.6
+Rigaud,3.6
+Rosemere,3.6
+Russell Twp,3.6
+Sagamore Hills,3.6
+Sainte-Catherine,3.6
+Sale,3.6
+Side Slopes,3.6
+Stow,3.6
+Sun City,3.6
+Sun Prairie,3.6
+Surprise Crossing,3.6
+Toronto,3.6
+Unionville,3.6
+Vaudreuil-Dorion,3.6
+West Toronto,3.6
+Wexford,3.6
+White Oak,3.6
+Willowick,3.6
+Wilmerding,3.6
+Woodmere Village,3.6
+York,3.6
+Airdrie,3.5
+Ajax,3.5
+Arrowhead,3.5
+Aurora,3.5
+Avondale,3.5
+Bethel Park,3.5
+Blue Mounds,3.5
+Boisbriand,3.5
+Brunswick,3.5
+Central City Village,3.5
+Cleveland Hghts.,3.5
+Cleveland, OH,3.5
+Columbia Station,3.5
+Concord,3.5
+De Forest,3.5
+Denver,3.5
+Downtown,3.5
+Estérel,3.5
+Farmington,3.5
+Fitchburg,3.5
+GOODYEAR,3.5
+Highland Heights,3.5
+Homestead,3.5
+Independence,3.5
+King,3.5
+L'Assomption,3.5
+LaSalle,3.5
+Lake Wylie,3.5
+Lasalle,3.5
+Lorain,3.5
+Mayfield Heights.,3.5
+McMurray,3.5
+Mckeesport,3.5
+Mentor,3.5
+Middleburg Heights,3.5
+Middlefield,3.5
+Mirabel,3.5
+Missisauga,3.5
+Monona,3.5
+Monongahela,3.5
+Mont-Royal,3.5
+Morin-Heights,3.5
+Newbury,3.5
+North Olmsted,3.5
+Northfield,3.5
+Old Scottsdale,3.5
+PHOENIX,3.5
+Penn Hills,3.5
+Penn Hills Township,3.5
+Pheonix,3.5
+Pointe-Aux-Trembles,3.5
+Robinson,3.5
+Rosemère,3.5
+Ross Township,3.5
+Saint Leonard,3.5
+Saint-Isidore-de-Laprairie,3.5
+Sandy Ridge,3.5
+Savoy,3.5
+Sedona,3.5
+Solon,3.5
+South Las Vegas,3.5
+Strongsville,3.5
+Sun City West,3.5
+Surprise,3.5
+Tallmadge,3.5
+University Heights,3.5
+Upper Saint Clair,3.5
+Vaughan,3.5
+Waunakee,3.5
+Wesley Chapel,3.5
+Westlake,3.5
+Whitby,3.5
+Willoughby,3.5
+Zephyr,3.5
+montreal,3.5
+Baie-d'Urfe,3.4
+Beachwood,3.4
+Beauharnois,3.4
+Bedford Heights,3.4
+Bolton,3.4
+Brampton,3.4
+Bridgeville,3.4
+Brossard,3.4
+Caledon East,3.4
+Candiac,3.4
+Clover,3.4
+Creighton,3.4
+Cuddy,3.4
+East McKeesport,3.4
+Elyria,3.4
+Etna,3.4
+Etobicoke,3.4
+Euclid,3.4
+Gastonia,3.4
+Hampton Township,3.4
+Indian Land,3.4
+Kirkland,3.4
+Leetsdale,3.4
+Maple,3.4
+Markham,3.4
+Mc Farland,3.4
+Mississauga,3.4
+Monroeville,3.4
+Montreal-Ouest,3.4
+Nellis Afb,3.4
+Nobleton,3.4
+North Charlotte,3.4
+Parma Heights,3.4
+Pepperpike,3.4
+Pickering,3.4
+Piedmont,3.4
+Pleasant Hills,3.4
+Plum Boro,3.4
+Prévost,3.4
+Richmond Hill,3.4
+Saint-Henri,3.4
+Saint-Laurent,3.4
+Scarborough,3.4
+Southeast Calgary,3.4
+Stouffville,3.4
+Streetsboro,3.4
+Summerlin,3.4
+Thornhill,3.4
+Tolleson,3.4
+Upper St Clair,3.4
+Wadsworth,3.4
+Walton Hills,3.4
+Warrensville Hts,3.4
+Woodbridge,3.4
+York Regional Municipality,3.4
+mesa,3.4
+scottsdale,3.4
+Anjou,3.3
+Belle Vernon,3.3
+Brookline,3.3
+Brooklyn,3.3
+Brookpark,3.3
+Catawba Springs,3.3
+Dollard-Des-Ormeaux,3.3
+Dravosburg,3.3
+Gelndale,3.3
+Greenfield Park,3.3
+LasVegas,3.3
+Laval, Pont Viau,3.3
+Library,3.3
+Locust,3.3
+Lyndhurst,3.3
+Macedonia,3.3
+Mascouche,3.3
+Mathews,3.3
+Mcfarland,3.3
+Monroe,3.3
+N Solon,3.3
+Nellis,3.3
+North York,3.3
+Oakville,3.3
+Oakwood Village,3.3
+Orange,3.3
+Perry Twp,3.3
+Pgh Int Arprt,3.3
+Pickering Ajax Whitby,3.3
+Pittsburg,3.3
+Promenade,3.3
+Queen creek,3.3
+Rantoul,3.3
+Richmond Heights,3.3
+Robinson Township,3.3
+Rockey View,3.3
+Rocky View,3.3
+Rocky View No. 44,3.3
+Saint Laurent,3.3
+Saint-Basile-le-Grand,3.3
+Saint-Sauveur-des-Monts,3.3
+Sainte-Anne-des-Plaines,3.3
+Sainte-Geneviève,3.3
+Sainte-Julie,3.3
+Sainte-Rose,3.3
+Sheffield Village,3.3
+South Park,3.3
+St. Léonard,3.3
+St. Sauveur,3.3
+Stanley,3.3
+Sun Lakes,3.3
+Twinsburg,3.3
+West Homestead,3.3
+West Mifflin,3.3
+Wildwood,3.3
+oakville,3.3
+Apache Junction,3.2
+Baldwin,3.2
+Beloeil,3.2
+Bradford,3.2
+Central City,3.2
+Central Oakland,3.2
+Chateauguay,3.2
+Claremont,3.2
+Down,3.2
+Elizabeth Township,3.2
+Garfield Heights,3.2
+Gifford,3.2
+Grand River,3.2
+Harrisburg,,3.2
+Jefferson Hills,3.2
+Lake Park,3.2
+Las Vegas & Henderson,3.2
+Las Vegass,3.2
+Laveen,3.2
+Lower Burrell,3.2
+Mayfield Heights,3.2
+Mayfield Hts.,3.2
+Mentor On the Lake,3.2
+Mesa AZ,3.2
+Nellis AFB,3.2
+Neville Island,3.2
+North Versailles,3.2
+Oakridges,3.2
+Philo,3.2
+Rocky river,3.2
+Saint-Basile-Le-Grand,3.2
+Saint-Leonard,3.2
+Sheffield Lake,3.2
+St-Leonard,3.2
+Toronto Division,3.2
+Venise-en-Québec,3.2
+Warrensville Heights,3.2
+Warrensville Hts.,3.2
+Wilkins Township,3.2
+Île-des-Soeurs,3.2
+Avon lake,3.1
+Bedford,3.1
+Belleville,3.1
+Broadview Hts,3.1
+Buckeye - Shaker,3.1
+C Las Vegas,3.1
+Chestermere,3.1
+Copley,3.1
+Cote-Saint-Luc,3.1
+Cuyahoga Fls,3.1
+Downtown Toronto,3.1
+East Liberty,3.1
+Halton Hills,3.1
+Holland Landing,3.1
+Indian land,3.1
+LaGrange,3.1
+Maple Heights,3.1
+Mc Murray,3.1
+Midnapore,3.1
+Milton,3.1
+Montreal-West,3.1
+Oakland,3.1
+Oshawa,3.1
+Pointe Claire,3.1
+Richmond Hil,3.1
+SW Calgary,3.1
+Saint-Bernard-de-Lacolle,3.1
+Saint-Charles-Borromee,3.1
+Sainte-Anne-De-Bellevue,3.1
+Schottsdale,3.1
+Shorewood Hills,3.1
+South Euclid,3.1
+Centennial Hills,3.0
+Chomedey, Laval,3.0
+Concord Township,3.0
+Dorval,3.0
+East Gwilimbury,3.0
+Fort  Mill,3.0
+Fort McDowell,3.0
+Higley,3.0
+Hyland Heights,3.0
+Joliet,3.0
+Medicine Hat,3.0
+Monterey Park,3.0
+Montrèal,3.0
+Moon Twp.,3.0
+Munhall,3.0
+New Tecumseth,3.0
+North Huntington,3.0
+North york,3.0
+Paw Creek,3.0
+Phoeniix,3.0
+Pine,3.0
+Rock Hill SC,3.0
+Rocky View County,3.0
+Saint-Bernard de Lacolle,3.0
+Scarbrough,3.0
+Shaler,3.0
+St-Clet,3.0
+St-Jerome,3.0
+Stetson Valley,3.0
+Suprise,3.0
+Tarentum,3.0
+Varennes,3.0
+Vaughan Mills,3.0
+Warrendale,3.0
+Warrensville,3.0
+West Lake,3.0
+Westworld Scottsdale,3.0
+Balzac,2.9
+Clarkson,2.9
+Crafton,2.9
+East Cleveland,2.9
+Erie,2.9
+Mattews,2.9
+Medina Township,2.9
+Montéal,2.9
+North Hills,2.9
+Oberlin,2.9
+Olmsted Township,2.9
+Pointe-Calumet,2.9
+Streetsville,2.9
+Tolono,2.9
+Troy Township,2.9
+W Spring Valley,2.9
+moon,2.9
+Central Henderson,2.8
+Cross Plains,2.8
+East Ajax,2.8
+Garfield Hts,2.8
+La Vegas,2.8
+MONROEVILLE,2.8
+Mayfield,2.8
+Mentor-On-The-Lake,2.8
+North Toronto,2.8
+Northwest Calgary,2.8
+Northyork,2.8
+S Concord,2.8
+Sainte-Marguerite-Esterel,2.8
+Thorncliffe Park,2.8
+Ville Saint Laurent,2.8
+Antioch,2.7
+Bond Head,2.7
+Buena Vista,2.7
+Concord Mills,2.7
+Cote Saint-Luc,2.7
+Duquesne,2.7
+Enterprise,2.7
+Lavaltrie,2.7
+Le Haut-Saint-Laurent Regional County Municipality,2.7
+Lodi,2.7
+Middleburg Hts.,2.7
+N W Las Vegas,2.7
+North Olmstead,2.7
+Queensville,2.7
+Red Mountain,2.7
+Roxboro,2.7
+Shaker Hts,2.7
+Weston,2.7
+Division No. 6,2.6
+Durham Regional Municipality,2.6
+East Calgary,2.6
+East Credit,2.6
+Etibicoke,2.6
+Mc Adenville,2.6
+North Strabane Township,2.6
+Notre-Dame-De-L'ile-Perrot,2.6
+Oakwood,2.6
+Pittsburgh ,2.6
+RIchmond Hill,2.6
+Rankin,2.6
+Strongville,2.6
+Tornto,2.6
+University,2.6
+W Henderson,2.6
+Willowdale,2.6
+Auburn Twp,2.5
+De Winton,2.5
+Deforest,2.5
+Dewey,2.5
+Ft. Mill,2.5
+Henderson (Green Valley),2.5
+Highland Hts,2.5
+McKnight,2.5
+Mt. Holly,2.5
+Sainte-Dorothée,2.5
+THORNHILL,2.5
+Waterloo,2.5
+Agincourt,2.4
+Alberta,2.4
+Bainbridge Township,2.4
+Forest Hills,2.4
+Hampstead,2.4
+Lufkin,2.4
+Malton,2.4
+N Ridgeville,2.4
+Norval,2.4
+Québec,2.4
+Sage Hill,2.4
+Sainte-Therese,2.4
+University Hts ,2.4
+,2.3
+Citibank,2.3
+Columbia Sta,2.3
+Manchester,2.3
+Montreal-Quest,2.3
+N. Las Vegas,2.3
+NORTH YORK,2.3
+Puyallup,2.3
+Richmond Height,2.3
+Rockyview,2.3
+Rockyview County,2.3
+St.Pittsburgh,2.3
+Sun Praiie,2.3
+TORONTO,2.3
+Uptown,2.3
+Warrenville,2.3
+Champlain,2.2
+Cleveland Heigh,2.2
+Draper,2.2
+MATTHEWS,2.2
+Mississagua,2.2
+North  York,2.2
+Whiitby,2.2
+AGINCOURT,2.1
+Central,2.1
+Cooksville,2.1
+Decatur,2.1
+Las Vegas ,2.1
+Mount Oliver,2.1
+Highland Park,2.0
+Middleburg,2.0
+Midway,2.0
+Phoenix Valley,2.0
+Pittsburch,2.0
+Sunrise,2.0
+Tampa,2.0
+Yorkdale,2.0
+Highland Hills,1.9
+Omaha,1.9
+Dublin,1.8
+Lake Las Vegas,1.8
+Mt Holly,1.8
+N. Ridgeville,1.8
+Wilkens Township,1.8
+Ange-Gardien,1.7
+Kettleby,1.7
+San Tan,1.7
+Schaumburg,1.7
+Spartanburg,1.7
+markham,1.7
+Cranberry Twp,1.6
+Etobicoke,,1.5
+Phoenix ,1.5
+De l'Eglise,1.4
+Edmonton,1.4
+San Diego,1.4
+Canonsburd,1.3
+Cleveland Hts.,1.3
+Markham, ON,1.3
+etobicoke,1.3
+Charlotte ,1.2
+Lake Norman,1.1
+Burlington,1.0
+Darlington,1.0
+Las Vegas Nevada,1.0
+Los Vegas,1.0
+Maricopa,1.0
+Milford,1.0
+NEWMARKET,1.0
+Sacramento,1.0
+Snowflake,1.0
+St. Leonard,1.0
+Toronto-Etobicoke,1.0
+Toronto-North York,1.0

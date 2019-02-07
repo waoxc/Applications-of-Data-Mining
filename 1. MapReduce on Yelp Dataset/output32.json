@@ -1,0 +1,5 @@
+{
+    "m1": 92.51444411277771,
+    "m2": 79.61712908744812,
+    "explanation": "The method 1 collect all data then print top 10, but the method 2 only take top 10 and stop,then print all top 10. Method 1 takes longer because collecting all other results takes a very long time."
+}
