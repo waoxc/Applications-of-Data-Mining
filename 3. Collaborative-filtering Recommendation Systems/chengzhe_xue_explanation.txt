@@ -1,0 +1,5 @@
+Comparing with case 3, after applying LSH, the runtime of case 4 reduced by around 100 second, but the accuracy,
+i.e. RMSE increased from around 0.9 to around 1.5. The main reason behind this is that, by applying LSH, we can
+get the similar business pairs in shorter time, hence reducing the time of finding similar business pairs. However,
+the LSH used Jaccard similarity, actually Pearson Correlation is preferred for accuracy, so the accuracy of case 4
+was affected and not as good as case 3.
